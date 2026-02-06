@@ -1,1 +1,1 @@
-# automation-exercise-playwright-pom
+# PlaywrightPOM
